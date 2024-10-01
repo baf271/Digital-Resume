@@ -1,0 +1,3 @@
+#Biography
+
+My name is Brantley Forrest, and I am an electrical engineering undergraduate student at Mississippi State University. My Capstone Design class team name is Ripplix, and our project is SwaMP, which is a central management platform for a swarm of autonomous unmanned surface vehicles (USV). I am an Air Force ROTC cadet who will commission into the US Space Force upon graduation. My current plan after getting my undergraduate degree is to go to the Air Force Institute of Technology (AFIT) after graduation to get my masters degree. I am also a member of the Famous Maroon Band an MSU Drumline; I play the cymbals!
